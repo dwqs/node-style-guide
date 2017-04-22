@@ -4,7 +4,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-### [格式](#%E6%A0%BC%E5%BC%8F)
+[格式](#%E6%A0%BC%E5%BC%8F)
   - [2个空格缩进](#2%E4%B8%AA%E7%A9%BA%E6%A0%BC%E7%BC%A9%E8%BF%9B)
   - [换行](#%E6%8D%A2%E8%A1%8C)
   - [清除尾随空格](#%E6%B8%85%E9%99%A4%E5%B0%BE%E9%9A%8F%E7%A9%BA%E6%A0%BC)
@@ -14,14 +14,14 @@
   - [在同一行书写左大括号](#%E5%9C%A8%E5%90%8C%E4%B8%80%E8%A1%8C%E4%B9%A6%E5%86%99%E5%B7%A6%E5%A4%A7%E6%8B%AC%E5%8F%B7)
   - [每个 var 语句只声明一个变量](#%E6%AF%8F%E4%B8%AA-var-%E8%AF%AD%E5%8F%A5%E5%8F%AA%E5%A3%B0%E6%98%8E%E4%B8%80%E4%B8%AA%E5%8F%98%E9%87%8F)
   
-### [命名约定](#%E5%91%BD%E5%90%8D%E7%BA%A6%E5%AE%9A)
+[命名约定](#%E5%91%BD%E5%90%8D%E7%BA%A6%E5%AE%9A)
 
-### [变量](#%E5%8F%98%E9%87%8F)
+[变量](#%E5%8F%98%E9%87%8F)
   - [创建对象/数组变量](#%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1%E6%95%B0%E7%BB%84%E5%8F%98%E9%87%8F)
   
-### [条件](#%E6%9D%A1%E4%BB%B6)
+[条件](#%E6%9D%A1%E4%BB%B6)
 
-### [License](#license)
+[License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
