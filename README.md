@@ -1,2 +1,1 @@
-# node-style-guide
-A guide for styling your node.js / JavaScript code
+# Nodejs Style Guide(by [felixge](https://github.com/felixge/node-style-guide))
