@@ -110,7 +110,7 @@ if (true)
 
 ### 每个 var 语句只声明一个变量
 
-每个 `var` 语句只声明一个变量, 这也让重编行号变得简单. 然而, 要忽略 [Crockford](http://javascript.crockford.com/code.html) 中提到的不推荐在函数内部声明变量, 记住要把变量生命在更容易理解的地方.
+每个 `var` 语句只声明一个变量, 这也让重编行号变得简单. 然而, 要忽略 [Crockford](http://javascript.crockford.com/code.html) 中提到的不推荐在函数内部声明变量, 记住要把变量声明在更容易理解的地方.
 
 正确示例:
 
